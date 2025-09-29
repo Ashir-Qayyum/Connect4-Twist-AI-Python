@@ -74,6 +74,10 @@ python connect4_twist.py
 
 ## ✨ Screenshots
 
+<img width="699" height="725" alt="Basic Gaming 01" src="https://github.com/user-attachments/assets/8b3642e3-ecf5-4505-a384-6ec0160bd24f" />
+<img width="698" height="723" alt="Before Twist 02" src="https://github.com/user-attachments/assets/db4a1083-e72e-4cc6-abca-cff328984b15" />
+<img width="697" height="722" alt="Losing to AI 03" src="https://github.com/user-attachments/assets/804e9a05-40bf-4107-982b-ac6fe38c9bbe" />
+
 ## 🔧 Future Enhancements
 
 *   Difficulty levels for AI
@@ -86,3 +90,9 @@ python connect4_twist.py
 ## 📜 License
 
 This project is for educational use. You may modify or extend it as needed.
+
+## Developers
+
+[Muhammad Ashir](https://github.com/Ashir-Qayyum)
+[Muhammad Anas](https://github.com/MrA006)
+[Muhammad Ammar](https://github.com/MuhammadAmmar7704)
