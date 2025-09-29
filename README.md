@@ -95,6 +95,6 @@ This project is for educational use. You may modify or extend it as needed.
 
 ## Developers
 
-[Muhammad Ashir](https://github.com/Ashir-Qayyum)
-[Muhammad Anas](https://github.com/MrA006)
+[Muhammad Ashir](https://github.com/Ashir-Qayyum)<br>
+[Muhammad Anas](https://github.com/MrA006)<br>
 [Muhammad Ammar](https://github.com/MuhammadAmmar7704)
