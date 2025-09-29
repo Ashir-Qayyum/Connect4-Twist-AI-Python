@@ -71,7 +71,7 @@ python connect4_twist.py
 📂 Connect4-Twist
  └── connect4_twist.py     # Main script with GUI, AI, and game logic
  └── GUI Captures/         # GUI Screenshots
- └──Project Report.pdf         # Detailed Project Report
+ └──Project Report.pdf     # Detailed Project Report
 ```
 
 ## ✨ Screenshots
